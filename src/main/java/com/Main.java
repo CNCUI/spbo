@@ -9,7 +9,7 @@ public class Main {
 		SpringApplication.run(Main.class, args);
 	}
 	
-	/**
+	/**idea
 	 * 访问http://localhost:8080    get    获取全部数据
 	 * 访问http://localhost:8080/1    get    获取id为1的数据
 	 * add post
